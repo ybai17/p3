@@ -1,0 +1,27 @@
+yileib p3 grade: 62/61
+Graded revision 64
+
+Graded by: GLK
+
+#cksm = 3/3 (any modifications flagged by cksum messages)
+
+#data = 20/20 (seems to do something/anything to visualize data)
+
+#past = 4/4 (avoided needless copypasta)
+#cmnt = 4/4 (code has comments to document its working)
+  great commenting
+
+#time = 4/4 (timeline slider works)
+#scpl = 4/4 (scatterplot per-state circles show data)
+#warp = 4/4 (warpings in scatterplot enable ordinal judgements)
+#stco = 4/4 (US states are colored to show data)
+#purp = 3/3 (PUR colormap judiciously uses purple)
+  very sparingly but ok
+#lvac = 2.5/3 (LVA colormap useful)
+  a little too much gray in the middle, given the task
+#tool = 5.5/4 (tool tips with mouseover, linking map + scatterplot)
+  great tooltips!  colorcoded table, and blinking circle; super cool!
+#tran = 4/4 (smooth transitions in states, beams, scatterplot circles)
+
+GLK regrets that there's likely no time for regrades, but if there is something
+totally broken and wrong about the grading, do write a private note on EdStem.
